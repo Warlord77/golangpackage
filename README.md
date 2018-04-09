@@ -1,0 +1,2 @@
+# golangpackage
+Debian golang package
