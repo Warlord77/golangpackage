@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 09 Apr 2018 04:57:24 +0000
+Source: golang-github-zyedidia-pty
+Binary: golang-github-zyedidia-pty-dev
+Architecture: source all
+Version: 1.1.1+git20180126.3036466-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Debian Go Packaging Team <pkg-go-maintainers@lists.alioth.debian.org>
+Changed-By: root <TODO>
+Description:
+ golang-github-zyedidia-pty-dev - PTY interface for Go
+Changes:
+ golang-github-zyedidia-pty (1.1.1+git20180126.3036466-1) UNRELEASED; urgency=medium
+ .
+   * Initial release (Closes: TODO)
+Checksums-Sha1:
+ ae5cd159a42ac3e3600c3bd4b579246814e2a798 1457 golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1.dsc
+ f8ef2b8f6c0ef43d1d5ca36d1619cde061dfd529 5268 golang-github-zyedidia-pty_1.1.1+git20180126.3036466.orig.tar.xz
+ 3fdbbbdf4d0acceb5c2c1fb0bb6c11fb20107561 1936 golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1.debian.tar.xz
+ adf7f1094e9a9fa637228ee6e62894cf4e4cce51 6540 golang-github-zyedidia-pty-dev_1.1.1+git20180126.3036466-1_all.deb
+ 088d130356d604f0f35af1f4fc24991685a1483b 4921 golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1_amd64.buildinfo
+Checksums-Sha256:
+ cf36b6540b588fc33ec1ed88e0cdbe39ae4f55cb67e90cb9e14b170cd69f84db 1457 golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1.dsc
+ e14178e124c1c2c6c11845be29757538f6d4d8ef44b0476eade9ecce1b1aa213 5268 golang-github-zyedidia-pty_1.1.1+git20180126.3036466.orig.tar.xz
+ 886c60a2091f6b472db3123e340e1610c1c22071e6930edc0dfae3da0813d676 1936 golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1.debian.tar.xz
+ 19e72d0a5da39d3a0c9ca48c912cf12bf323c7dbbba0e474981bd7f4d740f298 6540 golang-github-zyedidia-pty-dev_1.1.1+git20180126.3036466-1_all.deb
+ 6255a7944cdb7e10abef0355c2e34f6581a278391ef68d4b8405f9fc018ddcd6 4921 golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1_amd64.buildinfo
+Files:
+ 0e311df6ac5e5ea760d5404a4e022feb 1457 devel optional golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1.dsc
+ 148f97020fda9e95e2c6dca1fc6208a2 5268 devel optional golang-github-zyedidia-pty_1.1.1+git20180126.3036466.orig.tar.xz
+ d63325653ca54a0cf5a1e117db233703 1936 devel optional golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1.debian.tar.xz
+ ec93685b9aee049f6580e31f73852498 6540 devel optional golang-github-zyedidia-pty-dev_1.1.1+git20180126.3036466-1_all.deb
+ 5d460ae1d84997a44a36baa196b550b1 4921 devel optional golang-github-zyedidia-pty_1.1.1+git20180126.3036466-1_amd64.buildinfo
